@@ -1,7 +1,7 @@
 # BadBankApp
 BadBank is a banking application created as part of my coursework for the MIT xPRO Full Stack Web Development w/ MERN Certificate Program. It was developed using React, Express, Node and MongoDB.
 
-**Installation Guidelines:** Install utilizing git clone. 
+**Installation Guidelines:** Install utilizing git clone. Initialize node.js module.
 
 <img width="757" alt="Screen Shot 2021-10-05 at 11 31 46 PM" src="https://user-images.githubusercontent.com/45735996/136136813-97132379-d449-4ccd-96bc-223976e5041c.png">
 
